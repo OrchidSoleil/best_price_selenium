@@ -1,0 +1,7 @@
+venv
+.idea
+*.csv
+log.txt
+*.pyc
+pill_counter.py
+best_deal.py
